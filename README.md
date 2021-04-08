@@ -93,6 +93,10 @@ Te habrás dado cuenta de que, al declarar la variable, usamos la palabra “mar
 
 ![screenshot](https://raw.githubusercontent.com/sampach95/Puntos/master/img/Puntos.png )
 
+### Y si pasas el mouse por el icono podrás ver un letrero con la información que tecleamos en title:"Parada 1"
+
+![screenshot](https://raw.githubusercontent.com/sampach95/Puntos/master/img/parada.png )
+
 
 
 Haz click en el siguiente enlace para volver a la pagina inicial
