@@ -91,7 +91,7 @@ Te habrás dado cuenta de que, al declarar la variable, usamos la palabra “mar
 ```
 ### Al ejecutar en tu navegador deberías tener algo como esto.
 
-![screenshot](https://raw.githubusercontent.com/sampach95/Puntos/master/img/punto.png )
+![screenshot](https://raw.githubusercontent.com/sampach95/Puntos/master/img/Puntos.png )
 
 
 
