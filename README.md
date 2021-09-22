@@ -8,7 +8,7 @@ Utilizaremos el comando de leaflet “L.marker” para declarar en el código qu
 
 ``` html
 <script>	
-var marcador1 = L.marker([20.83748 , -99.71396].addTo(map);
+var marcador1 = L.marker([20.83748 , -99.71396]).addTo(map);
 </script>
 ```
 
